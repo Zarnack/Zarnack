@@ -1,7 +1,8 @@
   
 ### Hi, I am Sebastian
-and I am a research scientist at Fraunhofer.
-- 🌱 I’m currently improving my skillset in:
+and I am a research scientist at Fraunhofer.  
+
+🌱 I’m currently improving my skillset in:
   - ROS 2
   - C++
   - Docker
