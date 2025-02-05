@@ -1,6 +1,6 @@
   
 ### Hi, I am Sebastian
-and I am an research scientist at Fraunhofer.
+and I am a research scientist at Fraunhofer.
 - 🌱 I’m currently improving my skillset in:
   - ROS 2
   - C++
